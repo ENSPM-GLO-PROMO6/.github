@@ -32,11 +32,9 @@ Notre organisation est structurée comme suit :
 - **Modèles** : Modèles de projets et code de démarrage
 
 ## 📚 Dépôts Principaux
-
-- [Matériels-de-Cours](https://github.com/ENSPM-GENIE-LOGICIEL-PROMO6/Materiels-de-Cours) - Matériels de cours officiels et notes de cours
-- [Modèles-de-Projets](https://github.com/ENSPM-GENIE-LOGICIEL-PROMO6/Modeles-de-Projets) - Modèles pour différents types de projets
-- [Normes-de-Codage](https://github.com/ENSPM-GENIE-LOGICIEL-PROMO6/Normes-de-Codage) - Nos normes de codage et bonnes pratiques
-- [Ressources](https://github.com/ENSPM-GENIE-LOGICIEL-PROMO6/Ressources) - Ressources utiles pour les étudiants en génie logiciel
+- [Modèles-de-Projets](https://github.com/ENSPM-GLO-PROMO6/.github/blob/main/Modèle-de-README-pour-Projet.md) - Modèles pour différents types de projets
+- [Normes-de-Codage](https://github.com/ENSPM-GENIE-LOGICIEL-PROMO6/.github/blob/main/Normes-de-Codage) - Nos normes de codage et bonnes pratiques
+- [Ressources](https://github.com/ENSPM-GENIE-LOGICIEL-PROMO6/.github/blob/main/Ressources.md) - Ressources utiles pour les étudiants en génie logiciel
 
 ## 🚀 Premiers Pas
 
@@ -63,7 +61,7 @@ Nous valorisons la qualité et la cohérence dans notre code. Veuillez suivre ce
 4. Incluez une documentation appropriée
 5. Testez votre code avant de le soumettre
 
-Pour plus de détails, consultez nos [Directives de Contribution](https://github.com/ENSPM-GENIE-LOGICIEL-PROMO6/.gitignore/Directives-de-Contribution.md).
+Pour plus de détails, consultez nos [Directives de Contribution](https://github.com/ENSPM-GLO-PROMO6/.github/blob/main/Directives-de-Contribution.md)
 
 ## 🌐 Connectez-vous avec Nous
 
@@ -73,7 +71,7 @@ Pour plus de détails, consultez nos [Directives de Contribution](https://github
 
 ## 📜 Licence
 
-Sauf indication contraire, le contenu de cette organisation est sous licence [MIT License](LICENSE).
+Sauf indication contraire, le contenu de cette organisation est sous licence [MIT License](https://github.com/ENSPM-GLO-PROMO6/.github/blob/main/LICENCE)
 
 ## 🙏 Remerciements
 
