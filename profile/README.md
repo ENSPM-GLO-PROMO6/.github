@@ -45,7 +45,7 @@ Notre organisation est structurée comme suit :
 1. Demandez l'accès à l'organisation auprès de votre professeur
 2. Configurez votre profil avec votre vrai nom et une photo professionnelle
 3. Explorez les dépôts et commencez à contribuer
-4. Suivez nos [directives de contribution](https://github.com/ENSPM-GENIE-LOGICIEL-PROMO6/Directives-de-Contribution)
+4. Suivez nos [directives de contribution](https://github.com/ENSPM-GLO-PROMO6/.github/blob/main/Directives-de-Contribution.md)
 
 ### Pour les Enseignants
 
