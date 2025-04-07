@@ -120,7 +120,7 @@ Si vous avez des questions ou besoin d'aide concernant le processus de contribut
 
 - Contacter les responsables du projet
 - Créer une issue sur GitHub
-- Envoyer un e-mail à genie-logiciel-promo6@enspm.ac.ma
+- Envoyer un e-mail à enspmgenielogiciel@gmail.com
 
 ---
 
