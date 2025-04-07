@@ -63,7 +63,7 @@ Nous valorisons la qualité et la cohérence dans notre code. Veuillez suivre ce
 4. Incluez une documentation appropriée
 5. Testez votre code avant de le soumettre
 
-Pour plus de détails, consultez nos [Directives de Contribution](https://github.com/ENSPM-GENIE-LOGICIEL-PROMO6/Directives-de-Contribution).
+Pour plus de détails, consultez nos [Directives de Contribution](https://github.com/ENSPM-GENIE-LOGICIEL-PROMO6/.gitignore/Directives-de-Contribution.md).
 
 ## 🌐 Connectez-vous avec Nous
 
