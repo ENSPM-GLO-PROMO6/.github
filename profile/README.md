@@ -2,7 +2,7 @@
 # ENSPM-GENIE-LOGICIEL-PROMO6
 
 <p align="center">
-  <img src="https://via.placeholder.com/200" alt="Logo ENSPM" width="200">
+  <img src="https://github.com/ENSPM-GLO-PROMO6/.github/blob/main/LogoENSPM.jpg" alt="Logo ENSPM" width="200">
 </p>
 
 <p align="center">
